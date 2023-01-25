@@ -23,7 +23,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,express,firebase,git,github,heroku,html,java,js,linux,mongodb,mysql,nodejs,ts,vscode&perline=10">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c,bash,vim,vercel,express,firebase,git,github,heroku,java,linux,mongodb,mysql,nodejs,ts,vscode&perline=11">
 </p>
 
 
