@@ -1,10 +1,11 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=rnegi0598&style=flat-square&color=blue" alt=""/>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif" width="200" />
+<div id="header" align="middle">
+<!--   <img src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif" width="200" /> -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250" />
 
-  <h1 align="left">नमस्ते! 🙏 </h1>
+  <h1 align="middle">नमस्ते! 🙏 </h1>
  
 </div>
 
