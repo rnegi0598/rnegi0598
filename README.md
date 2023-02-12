@@ -16,7 +16,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :seedling: I’m currently learning   **Javascript** and **ReactJs**.
-- :zap: In my free time, I read tech articles .
+- :zap: In my free time, I read and write tech articles .
 - 👯 I’m looking to collaborate on ReactJs Projects.
 - :mailbox:How to reach me: rnegi0598@gmail.com
 
